@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Textnity</string>
+    <string name="upload_an_image">Please insert your image and wait for your Text Scanning</string>
+    <string name="camera">camera</string>
+</resources>
